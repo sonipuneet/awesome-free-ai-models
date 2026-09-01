@@ -47,6 +47,11 @@ I personally use these locally on a daily basis.
 
 This project is licensed under the MIT License — see [LICENSE](https://github.com/sonipuneet/awesome-free-ai-models/blob/main/LICENSE).
 
+## 🔍 Search Terms Used
+- best free open source AI models
+- run AI locally without cloud
+- MIT licensed models for self-hosting
+
 ## 📅 Future Roadmap
  - Auto-update from Hugging Face every 3 weeks via GitHub Actions
  - Add benchmark tables for generation quality (e.g., LLaMA vs. Mistral)
