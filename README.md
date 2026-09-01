@@ -34,9 +34,18 @@ Organized by category for clarity:
 - Use llama.cpp, Ollama, or Text Generation Inference 
 - Most models support quantization (Q4_0, Q5_K) to fit on consumer GPUs   
 
+## TOP 3 
+I personally use these locally on a daily basis.
+
+| Model | Platform | Interface | Key Features | Notes |
+| --- | --- | --- | --- | --- |
+| GPT-oss-20b | LMStudio & anythingLLM | GUI | Strong reasoning, versatile, good for coding tasks | May require significant local resources |
+| Qwen3-Coder-30B-A3B-Instruct | llama.cpp | Local API Server | Excellent coding capabilities, efficient quantization | Requires optimized llama.cpp setup |
+| Jan-v3.5-4B | Jan LLM | GUI | Lightweight, fast inference, easy to use | Smaller model size but still effective |
+
 ## 📄 License
 
-This project is licensed under the MIT License — see LICENSE.
+This project is licensed under the MIT License — see [LICENSE](https://github.com/sonipuneet/awesome-free-ai-models/blob/main/LICENSE).
 
 ## 📅 Future Roadmap
  - Auto-update from Hugging Face every 3 weeks via GitHub Actions
